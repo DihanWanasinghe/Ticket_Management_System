@@ -1,0 +1,31 @@
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 1
+Ticket bought by- Customer ID:0 current size is: 0 Ticket information: Ticket{ticketID=0-0, ticketPrice= 500.00, eventName='Normal Event '}
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 2
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 3
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 4
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 5
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 6
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 7
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 8
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 9
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 10
+ Ticket Issued by: Vendor ID:4 Currently Issued Tickets: 1
+Ticket bought by- Customer ID:0 current size is: 0 Ticket information: Ticket{ticketID=4-0, ticketPrice= 500.00, eventName='Normal Event '}
+ Ticket Issued by: Vendor ID:1 Currently Issued Tickets: 2
+ Ticket Issued by: Vendor ID:8 Currently Issued Tickets: 3
+ Ticket Issued by: Vendor ID:0 Currently Issued Tickets: 4
+ Ticket Issued by: Vendor ID:2 Currently Issued Tickets: 5
+ Ticket Issued by: Vendor ID:3 Currently Issued Tickets: 6
+ Ticket Issued by: Vendor ID:6 Currently Issued Tickets: 7
+ Ticket Issued by: Vendor ID:7 Currently Issued Tickets: 8
+ Ticket Issued by: Vendor ID:9 Currently Issued Tickets: 9
+ Ticket Issued by: Vendor ID:5 Currently Issued Tickets: 10
+Ticket bought by- Customer ID:1 current size is: 8 Ticket information: Ticket{ticketID=1-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:2 current size is: 7 Ticket information: Ticket{ticketID=8-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:3 current size is: 6 Ticket information: Ticket{ticketID=0-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:4 current size is: 5 Ticket information: Ticket{ticketID=2-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:5 current size is: 4 Ticket information: Ticket{ticketID=3-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:6 current size is: 3 Ticket information: Ticket{ticketID=6-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:7 current size is: 2 Ticket information: Ticket{ticketID=7-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:8 current size is: 1 Ticket information: Ticket{ticketID=9-0, ticketPrice= 500.00, eventName='Normal Event '}
+Ticket bought by- Customer ID:9 current size is: 0 Ticket information: Ticket{ticketID=5-0, ticketPrice= 500.00, eventName='Normal Event '}
